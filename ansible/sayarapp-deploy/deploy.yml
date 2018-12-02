@@ -3,7 +3,7 @@
     ImageName: ""
     Namespace: ""
     imageTag: ""
-  #remote_user: ansible
+  #remote_user: student
   #become: true
   gather_facts: no
   connection: local
