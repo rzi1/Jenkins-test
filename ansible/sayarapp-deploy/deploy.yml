@@ -1,8 +1,8 @@
 - hosts: localhost
   vars:
-    ImageName: "test"
-    Namespace: "test"
-    imageTag: "test"
+    ImageName: ""
+    Namespace: ""
+    imageTag: ""
   #remote_user: student
   #become: true
   gather_facts: no
